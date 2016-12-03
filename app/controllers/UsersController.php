@@ -14,6 +14,6 @@ class UsersController
 	public function store() {
 		//store user and redirect to all user
 		App::get('database')->insert_data('registration',$_POST);
-		return redirect('php-practicioner/pdo-refactoring/index.php/users');
+		return redirect('index.php/users');
 	}
 }

@@ -7,7 +7,7 @@
 <body>
 <nav id="nav-menu">
 	<ul>
-		<li><a href="/php-practicioner/pdo-refactoring/index.php/contact">Contact Us</a></li>
-		<li><a href="/php-practicioner/pdo-refactoring/index.php/about">About Us</a></li>
+		<li><a href="index.php/contact">Contact Us</a></li>
+		<li><a href="index.php/about">About Us</a></li>
 	</ul>
 </nav>
